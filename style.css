@@ -1,0 +1,28 @@
+body {  
+background-color: #556B2F;
+color: white;
+font-family: "Cinzel", serif;;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+
+
+}
+button{
+background-color: #2C3E50;
+color: white;
+font-family: "Cinzel", serif;;
+
+}
+
+
+.passo {
+display: none;
+
+
+}
+.passo.ativo {
+display:block;
+}
